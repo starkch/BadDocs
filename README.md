@@ -13,5 +13,3 @@ Better docs.
 Improving.
 
 Almost done.
-
-But fixing a bug.
